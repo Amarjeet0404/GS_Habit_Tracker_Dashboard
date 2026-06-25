@@ -161,8 +161,6 @@ This project demonstrates practical knowledge of:
 
 **Amarjeet Singh Chauhan**
 
-Assistant Professor | AI & Data Science Enthusiast
-
 ---
 
 ## 🔗 Live Project
